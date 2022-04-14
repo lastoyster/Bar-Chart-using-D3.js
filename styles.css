@@ -1,0 +1,18 @@
+#chart {
+  position: relative;
+  width: 100%;
+}
+
+.bar {
+  background-color: red;
+}
+
+#tooltip {
+  position: fixed;
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  background-color: #2cf;
+}
